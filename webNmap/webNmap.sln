@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webNmap", "webNmap\webNmap.csproj", "{68CF37EE-331F-450F-AF54-A9FDC0552A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CF37EE-331F-450F-AF54-A9FDC0552A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF37EE-331F-450F-AF54-A9FDC0552A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF37EE-331F-450F-AF54-A9FDC0552A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF37EE-331F-450F-AF54-A9FDC0552A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61B8366-1AD5-4ADC-BAFE-755DA007C00D}
+	EndGlobalSection
+EndGlobal

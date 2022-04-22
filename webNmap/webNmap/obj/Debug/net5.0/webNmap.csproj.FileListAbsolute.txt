@@ -1,0 +1,16 @@
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.exe
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.deps.json
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.runtimeconfig.json
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.runtimeconfig.dev.json
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.dll
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\ref\webNmap.dll
+C:\Users\Pc\source\repos\webNmap\webNmap\bin\Debug\net5.0\webNmap.pdb
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.AssemblyInfo.cs
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.dll
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\ref\webNmap.dll
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.pdb
+C:\Users\Pc\source\repos\webNmap\webNmap\obj\Debug\net5.0\webNmap.genruntimeconfig.cache
